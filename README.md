@@ -43,6 +43,10 @@ Triggers a relay and turn on a LED if the temperature rises above 30ºC.
 
 ![Temperature blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/relayledblocks.png)
 
+Circuit example
+![Temperature blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
+
+
 ### 2. Ultrasonic Distance Sensor (External Sensors)
 
 Measures distance and activates a servomotor if an obstacle is closer than 10 cm.
