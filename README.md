@@ -41,7 +41,7 @@ To use this extension in your MakeCode project:
 
 Triggers a relay and turn on a LED if the temperature rises above 30ºC.
 
-![Temperature blocks example](images/relaydledblocks.png)
+![Temperature blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/relayledblocks.png)
 
 ### 2. Ultrasonic Distance Sensor (External Sensors)
 
