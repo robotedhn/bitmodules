@@ -56,17 +56,12 @@ Measures distance and activates a servomotor if an obstacle is closer than 15 cm
 Circuit example
 ![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
 
-### 3. Tilt and Compass (Accelerometer)
+### 3.Compass (Built-in Sensors)
 
-Shows an arrow pointing North if the board is pointing to that cardinal direction.
+Shows N,S,E,W if the board is pointing to that cardinal direction.
 
-```blocks
-basic.forever(function () {
-    if (BitModules.pointingNorth()) {
-        basic.showArrow(ArrowNames.North)
-    }
-})
-```
+![Compass blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/cardinalpoints.png)
+
 
 ## ⚙️ Supported Pins Reference
 
