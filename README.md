@@ -55,9 +55,6 @@ Measures distance and activates a servomotor if an obstacle is closer than 15 cm
 ![Ultrasonic blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonicblocks.png)
 
 Circuit example
-
-![Module](https://img.shields.io/badge/Module-Relay-lightgreen.svg)
-
 ![Sensor](https://img.shields.io/badge/Module-HC-SR04-lightgreen.svg)
 
 ![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonic.png)
