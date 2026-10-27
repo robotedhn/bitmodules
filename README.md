@@ -44,22 +44,17 @@ Triggers a relay and turn on a LED if the temperature rises above 30ºC.
 ![Temperature blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/relayledblocks.png)
 
 Circuit example
-![Temperature blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
+![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
 
 
 ### 2. Ultrasonic Distance Sensor (External Sensors)
 
-Measures distance and activates a servomotor if an obstacle is closer than 10 cm.
+Measures distance and activates a servomotor if an obstacle is closer than 15 cm.
 
-```blocks
-basic.forever(function () {
-    if (BitModules.detectObstacle(10, BitModules.DigitalPinOptions.P1, BitModules.DigitalPinOptions.P2)) {
-        BitModules.moveServo(BitModules.DigitalPinOptions.P0, 180)
-    } else {
-        BitModules.moveServo(BitModules.DigitalPinOptions.P0, 0)
-    }
-})
-```
+![Ultrasonic blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonicblocks.png)
+
+Circuit example
+![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
 
 ### 3. Tilt and Compass (Accelerometer)
 
