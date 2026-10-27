@@ -37,6 +37,7 @@ To use this extension in your MakeCode project:
 ## 💻 Usage Examples
 
 ### 1. Temperature Alarm (Built-in Sensors)
+![Compatibility](https://img.shields.io/badge/micro:bit-v1_y_v2-orange.svg)
 
 Triggers a relay and turn on a LED if the temperature rises above 30ºC.
 
