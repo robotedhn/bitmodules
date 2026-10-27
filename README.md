@@ -29,11 +29,10 @@ To use this extension in your MakeCode project:
 3. In the menu, click the gear icon ⚙️ and select **Extensions** (or click "Extensions" in the block palette).
 
 4. In the search box, paste the URL of this repository:
-   `https://github.com/your-username/your-repository`
+   ` https://github.com/robotedhn/bitmodules`
 
 5. Click on the **BitModules** card to import it into your project.
 
-> **Note:** Remember to replace `your-username/your-repository` with the actual URL of your GitHub repository once you publish it.
 
 ## 💻 Usage Examples
 
