@@ -37,7 +37,7 @@ To use this extension in your MakeCode project:
 ## 💻 Usage Examples
 
 ### 1. Temperature Alarm (Built-in Sensors)
-![Compatibility](https://img.shields.io/badge/micro:bit-v1_y_v2-orange.svg)
+![Compatibility](https://img.shields.io/badge/micro:bit-v1_and_v2-orange.svg)
 
 Triggers a relay and turn on a LED if the temperature rises above 30ºC.
 
@@ -48,6 +48,7 @@ Circuit example
 
 
 ### 2. Ultrasonic Distance Sensor (External Sensors)
+![Compatibility](https://img.shields.io/badge/micro:bit-v1_and_v2-orange.svg)
 
 Measures distance and activates a servomotor if an obstacle is closer than 15 cm.
 
@@ -57,6 +58,7 @@ Circuit example
 ![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
 
 ### 3.Compass (Built-in Sensors)
+![Compatibility](https://img.shields.io/badge/micro:bit-v1_and_v2-orange.svg)
 
 Shows N,S,E,W if the board is pointing to that cardinal direction.
 
