@@ -39,17 +39,9 @@ To use this extension in your MakeCode project:
 
 ### 1. Temperature Alarm (Built-in Sensors)
 
-Triggers an alarm if the temperature rises above 30ºC.
+Triggers a relay and turn on a LED if the temperature rises above 30ºC.
 
-```blocks
-basic.forever(function () {
-    if (BitModules.temperatureAlarm(30)) {
-        basic.showIcon(IconNames.Skull)
-    } else {
-        basic.clearScreen()
-    }
-})
-```
+![Temperature blocks example](images/relaydledblock.png)
 
 ### 2. Ultrasonic Distance Sensor (External Sensors)
 
