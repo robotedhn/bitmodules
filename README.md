@@ -55,7 +55,10 @@ Measures distance and activates a servomotor if an obstacle is closer than 15 cm
 ![Ultrasonic blocks example](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonicblocks.png)
 
 Circuit example
-![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
+![Controlador](https://img.shields.io/badge/Relay-lightgrey.svg)
+![Controlador](https://img.shields.io/badge/HC-SR04-lightgrey.svg)
+
+![Temperature diagram circuit](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonic.png)
 
 ### 3.Compass (Built-in Sensors)
 ![Compatibility](https://img.shields.io/badge/micro:bit-v1_and_v2-orange.svg)
