@@ -23,5 +23,6 @@
     "supportedTargets": [
         "microbit"
     ],
+    "icon": "./icon.png",
     "preferredEditor": "tsprj"
 }
