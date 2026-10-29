@@ -75,10 +75,6 @@ La extensión limita de forma inteligente los pines disponibles para evitar conf
 
 * **Digitales (sin conflictos):** P0, P1, P2, P6, P7, P8, P9, P13, P14, P16.
 
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar la extensión, puedes crear una copia del repositorio (*fork*), crear una rama con tus cambios y enviar una solicitud de incorporación de cambios (*Pull Request*).
-
 ## 📄 Licencia
 
 Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
@@ -100,4 +96,5 @@ Este repositorio se puede agregar como una **extensión** en MakeCode.
 
 ## Créditos
 Desarrollado por **Carlos Borjas - Robótica Educativa de Honduras**.
+
 Diseñado para apoyar la robótica educativa, la implementación de tecnología en centros educativos y la formación de equipos de estudiantes.
