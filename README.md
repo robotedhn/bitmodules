@@ -1,5 +1,7 @@
 # BitModules for micro:bit
 
+> 🇪🇸 **Para usuarios hispanohablantes:** [Lee la documentación en español aquí](README-es.md)
+
 **BitModules** is a Microsoft MakeCode extension that simplifies reading sensors and controlling actuators on the BBC micro:bit. It is designed to make electronics and robotics projects more accessible by providing intuitive blocks for both built-in and external components.
 
 ## 🚀 Main Features
@@ -81,8 +83,7 @@ Contributions are welcome! If you want to improve the extension, please fork the
 
 MIT License. See the `LICENSE` file for more details.
 
-#### MakeCode Metadata
-
+## Supported Targets
 * for PXT/microbit
 
 
@@ -97,3 +98,6 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/robotedhn/bitmodules** and import
 
+## Credits
+Developed by **Carlos Borjas - Robótica Educativa de Honduras**.
+Designed to support educational robotics, technology implementation in schools, and training for student teams.
