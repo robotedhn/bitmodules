@@ -75,10 +75,6 @@ The extension smartly restricts available pins to prevent conflicts with the mic
 
 * **Digital (Safe):** P0, P1, P2, P6, P7, P8, P9, P13, P14, P16.
 
-## 🤝 Contributions
-
-Contributions are welcome! If you want to improve the extension, please fork the repository, create a branch with your changes, and submit a Pull Request.
-
 ## 📄 License
 
 MIT License. See the `LICENSE` file for more details.
@@ -100,4 +96,5 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Credits
 Developed by **Carlos Borjas - Robótica Educativa de Honduras**.
+
 Designed to support educational robotics, technology implementation in schools, and training for student teams.
