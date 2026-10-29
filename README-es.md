@@ -12,7 +12,7 @@ Esta extensión organiza sus funciones en varias categorías fáciles de utiliza
 
 * 🚀 **Acelerómetro:** Medición de la fuerza de los impactos (0-100 %) y cálculo preciso de los ángulos de inclinación (Pitch/Roll), con zonas muertas estabilizadas.
 
-* 🧭 **Brújula:** Detección simplificada de las 8 direcciones de la brújula (N, NE, E, SE, S, SW, W, NW).
+* 🧭 **Brújula:** Detección simplificada de las 8 direcciones de la brújula (N, NE, E, SE, S, SO, O, NO).
 
 * 🔊 **Sonido (exclusivo de la versión V2):** Bloques que permiten reaccionar según el nivel de sonido detectado.
 
@@ -43,7 +43,7 @@ Para utilizar esta extensión en tu proyecto de MakeCode:
 
 Activa un relé y enciende un LED cuando la temperatura supera los 30 °C.
 
-![Ejemplo de bloques para la alarma de temperatura](https://github.com/robotedhn/bitmodules/blob/master/images/relayledblocks.png)
+![Ejemplo de bloques para la alarma de temperatura](https://github.com/robotedhn/bitmodules/blob/master/images/relayledblocks-es.png)
 
 Ejemplo de circuito
 ![Diagrama del circuito de la alarma de temperatura](https://github.com/robotedhn/bitmodules/blob/master/images/relayled.png)
@@ -54,7 +54,7 @@ Ejemplo de circuito
 
 Mide la distancia y activa un servomotor cuando detecta un obstáculo a menos de 15 cm.
 
-![Ejemplo de bloques para el sensor ultrasónico](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonicblocks.png)
+![Ejemplo de bloques para el sensor ultrasónico](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonicblocks-es.png)
 
 Ejemplo de circuito
 ![Diagrama del circuito del sensor ultrasónico](https://github.com/robotedhn/bitmodules/blob/master/images/servo_ultrasonic.png)
@@ -62,9 +62,9 @@ Ejemplo de circuito
 ### 3. Brújula (sensores integrados)
 ![Compatibilidad](https://img.shields.io/badge/micro:bit-v1_and_v2-orange.svg)
 
-Muestra N, S, E o W cuando la placa apunta hacia uno de esos puntos cardinales (W corresponde al oeste).
+Muestra N, S, E u O cuando la placa apunta hacia uno de esos puntos cardinales (O corresponde al oeste).
 
-![Ejemplo de bloques para la brújula](https://github.com/robotedhn/bitmodules/blob/master/images/cardinalpoints.png)
+![Ejemplo de bloques para la brújula](https://github.com/robotedhn/bitmodules/blob/master/images/cardinalpoints-es.png)
 
 
 ## ⚙️ Referencia de pines compatibles
