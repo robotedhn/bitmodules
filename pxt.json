@@ -1,10 +1,9 @@
 {
     "name": "BitModules",
     "version": "1.0.4",
-    "description": "",
+    "description": "Educational blocks for BBC micro:bit sensors and actuators.",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*"
     },
     "files": [
